@@ -1,0 +1,4 @@
+POST https://store.hariomshop.com/wp-json/jwt-auth/v1/token HTTP/1.1
+Content-Type: application/x-www-form-urlencoded
+
+username=xxxx&password=xxxx
